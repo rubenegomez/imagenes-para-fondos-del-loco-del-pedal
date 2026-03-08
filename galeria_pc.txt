@@ -1,12 +1,13 @@
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/cordoba_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/el_valle_de_la_luna_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/humahuaca_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/paseo_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/ruta_3_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/ruta_40_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/selva_misionera_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/viajando_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/vi%C3%B1edos_de_san_juan_en_bici_pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/fabrica-fondo-pc.png
-https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/fabrica-pc.png
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/cordoba_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/el_valle_de_la_luna_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/fabrica-fondo-pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/humahuaca_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/foto-fabrica-pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/paseo_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/ruta_3_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/ruta_40_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/selva_misionera_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/viajando_en_bici_pc.jpg
+https://raw.githubusercontent.com/rubenegomez/imagenes-para-fondos-del-loco-del-pedal/refs/heads/main/vi%C3%B1edos_de_san_juan_en_bici_pc.jpg
+
 
